@@ -1,0 +1,1085 @@
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-16T06:27:56.137Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-16T06:29:00.150Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-16T06:29:25.034Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-16T06:34:05.198Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-16T06:59:41.572Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:32:50.151Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:33:56.566Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:38:55.525Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:39:13.218Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:39:58.619Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:48:02.907Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T08:48:36.770Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T10:51:28.755Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T10:53:26.329Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:32.956Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:33.804Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:34.270Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:34.445Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:45.312Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:45.748Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:56:55.490Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:57:09.015Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:57:09.468Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T10:57:09.662Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:42:28.435Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:42:29.910Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:35.045Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:35.581Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:35.992Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:36.152Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:37.693Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:38.116Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:38.386Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:38.635Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:38.781Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:55.031Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:55.475Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:55.672Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:43:55.908Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:25.242Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:25.737Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:26.094Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:26.280Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:27.605Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:42.996Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:43.412Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:43.741Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:43.905Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:44.050Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:48.129Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:44:48.636Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:45:10.665Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:45:18.723Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:45:28.475Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:46:08.929Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:47:39.291Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:48:12.920Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:48:41.258Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:49:27.803Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T11:49:28.456Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:49:39.494Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:50:09.769Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:56:24.500Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T11:59:39.529Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:00:57.638Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:03:36.859Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:07:17.534Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:07:18.968Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /important-notices',
+  timestamp: '2025-09-17T12:09:12.710Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:12:21.705Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:12:54.886Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:12:55.889Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:13:00.318Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:13:03.783Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:13:07.774Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:13:53.079Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-17T12:13:53.539Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:14:36.094Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:16:46.313Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:21:16.311Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:23:17.623Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-17T12:23:31.694Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-18T03:48:34.774Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-18T03:51:16.847Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-18T07:05:54.649Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-18T07:33:37.738Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-18T07:35:28.005Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-18T07:42:44.505Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-18T09:43:43.257Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-18T09:46:54.930Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-18T09:48:33.470Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T09:11:25.848Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T09:12:52.661Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T09:13:34.891Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T09:23:42.022Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T10:57:45.966Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T10:58:01.873Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-19T10:58:49.626Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-22T05:38:39.472Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-22T05:51:56.397Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-22T06:01:54.724Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-22T06:35:51.821Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-23T04:04:24.314Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-23T04:09:29.944Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:03.154Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:04.110Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:05.088Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:05.901Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:06.663Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-24T05:08:07.612Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:41:58.242Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:42:19.322Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:44:14.189Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /forget-userid',
+  timestamp: '2025-09-24T06:45:15.959Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:45:23.042Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:07.894Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:13.163Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:37.669Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:38.152Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:38.333Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:38.537Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:38.714Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:41.366Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:41.941Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:46:51.715Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:47:09.708Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:47:10.205Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:48:12.150Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:48:22.935Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:12.031Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:12.554Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:12.980Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:13.152Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:14.220Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:22.810Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:49:45.838Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-24T06:49:56.388Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:50:20.014Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:50:20.710Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:50:21.784Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:50:50.754Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:51:17.827Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:54:33.477Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T06:54:34.991Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T09:04:38.865Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T09:05:52.009Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-09-24T09:08:20.879Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:17.579Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:18.034Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:18.634Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:19.152Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:19.596Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:20.050Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:20.582Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:21.038Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:21.482Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:21.925Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:22.360Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:22.814Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:23.260Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:23.725Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:24.223Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T04:06:24.709Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T07:16:11.830Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T07:23:05.041Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T07:26:58.729Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T08:58:57.935Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:00:59.600Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /undefined',
+  timestamp: '2025-09-30T09:05:40.257Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:05:44.861Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /[object%20Response]',
+  timestamp: '2025-09-30T09:05:52.054Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:15:26.435Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:15:42.667Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:20:58.972Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:26:10.981Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T09:38:04.620Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T10:10:13.999Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T10:40:42.939Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T10:55:24.200Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-09-30T11:18:19.445Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:00:57.902Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:00:59.163Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:00:59.604Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:01:00.063Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:01:00.514Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:01:00.957Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-09-30T13:01:01.401Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-10-01T06:00:55.840Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-10-01T06:01:45.891Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-10-01T06:01:59.559Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-10-01T06:02:19.322Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T06:07:26.103Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T06:40:21.600Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T06:40:42.901Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-10-01T06:49:52.259Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T06:50:12.705Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:07:10.297Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:07:33.913Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:10:41.662Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:12:00.374Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:12:02.238Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:14:52.487Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T07:15:22.526Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T08:56:05.082Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T08:58:15.630Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:29:58.774Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:38:32.126Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:39:04.163Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:39:55.233Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:40:17.760Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:41:03.288Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /favicon.ico',
+  timestamp: '2025-10-01T10:41:55.567Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:42:12.733Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:45:33.784Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T10:46:13.138Z'
+}
+{
+  level: 'error',
+  message: 'ROUTE_NOT_FOUND: /.well-known/appspecific/com.chrome.devtools.json',
+  timestamp: '2025-10-01T11:48:59.284Z'
+}
+{
+  level: 'error',
+  message: 'Error while connecting to Redis',
+  timestamp: '2025-10-01T15:37:26.396Z'
+}

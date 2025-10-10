@@ -1,5 +1,4 @@
 const momentTz = require('moment-timezone');
-const { redisClient } = require('./redisConnect.js');
 const { v4: uuidv4 } = require('uuid');
 
 exports.momentDates = {

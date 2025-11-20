@@ -57,7 +57,8 @@ const awsController = {
                     fullImgName,
                     fileExtension,
                     fullS3URL: `${awsKeys.bucketURL}/${fullImgName}`,
-                    cdnUrl: `https://d1uifhbz1pecq0.cloudfront.net/${fullImgName}`,
+                    cdnUrl: `${process.env.CDN_URL}/${fullImgName}`,
+                    // cdnUrl: `https://d1uifhbz1pecq0.cloudfront.net/${fullImgName}`,
                     size: uploadFile.size,
                 })
             );

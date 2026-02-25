@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"private": true,
 	"scripts": {
-		"start": "pm2 start ecosystem.config.js --env production",
+		"start": "NODE_ENV=prod pm2 start ecosystem.config.js --env production",
 		"dev": "nodemon app.js"
 	},
 	"dependencies": {

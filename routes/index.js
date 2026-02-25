@@ -2,7 +2,7 @@ const indexRouter = require('express').Router();
 const awsRouter = require('./awsRouter.js');
 
 
-indexRouter.get('/', (req, res) => {
+indexRouter.get('/health', (req, res) => {
     res.json({ message: 'Welcome to Uttirna AWS Upload Service' });
 });
 
